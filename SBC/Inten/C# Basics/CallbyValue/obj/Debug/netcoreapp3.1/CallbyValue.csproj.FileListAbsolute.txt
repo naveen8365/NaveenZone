@@ -1,0 +1,13 @@
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.exe
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.deps.json
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.runtimeconfig.json
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.runtimeconfig.dev.json
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.dll
+F:\C#\CallbyValue\bin\Debug\netcoreapp3.1\CallbyValue.pdb
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.csprojAssemblyReference.cache
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.AssemblyInfoInputs.cache
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.AssemblyInfo.cs
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.csproj.CoreCompileInputs.cache
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.dll
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.pdb
+F:\C#\CallbyValue\obj\Debug\netcoreapp3.1\CallbyValue.genruntimeconfig.cache

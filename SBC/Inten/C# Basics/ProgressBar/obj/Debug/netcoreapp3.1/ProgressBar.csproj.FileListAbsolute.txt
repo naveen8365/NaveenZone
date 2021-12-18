@@ -1,0 +1,15 @@
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.exe
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.deps.json
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.runtimeconfig.json
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.runtimeconfig.dev.json
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.dll
+C:\Users\LAPTOP\source\repos\ProgressBar\bin\Debug\netcoreapp3.1\ProgressBar.pdb
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.csprojAssemblyReference.cache
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.Form1.resources
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.csproj.GenerateResource.cache
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.AssemblyInfoInputs.cache
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.AssemblyInfo.cs
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.csproj.CoreCompileInputs.cache
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.dll
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.pdb
+C:\Users\LAPTOP\source\repos\ProgressBar\obj\Debug\netcoreapp3.1\ProgressBar.genruntimeconfig.cache

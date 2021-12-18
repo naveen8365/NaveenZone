@@ -1,0 +1,13 @@
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.exe
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.deps.json
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.json
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.runtimeconfig.dev.json
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.dll
+F:\Forloop\bin\Debug\netcoreapp3.1\Forloop.pdb
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.csprojAssemblyReference.cache
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfoInputs.cache
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.AssemblyInfo.cs
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.csproj.CoreCompileInputs.cache
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.dll
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.pdb
+F:\Forloop\obj\Debug\netcoreapp3.1\Forloop.genruntimeconfig.cache

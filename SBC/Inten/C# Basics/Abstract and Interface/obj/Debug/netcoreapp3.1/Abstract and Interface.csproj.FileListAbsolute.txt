@@ -1,0 +1,26 @@
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.exe
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.deps.json
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.runtimeconfig.json
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.runtimeconfig.dev.json
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.dll
+F:\C# Basics\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.pdb
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.csprojAssemblyReference.cache
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.AssemblyInfoInputs.cache
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.AssemblyInfo.cs
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.csproj.CoreCompileInputs.cache
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.dll
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.pdb
+F:\C# Basics\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.genruntimeconfig.cache
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.exe
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.deps.json
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.runtimeconfig.json
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.runtimeconfig.dev.json
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.dll
+F:\C#\Abstract and Interface\bin\Debug\netcoreapp3.1\Abstract and Interface.pdb
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.csprojAssemblyReference.cache
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.AssemblyInfoInputs.cache
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.AssemblyInfo.cs
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.csproj.CoreCompileInputs.cache
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.dll
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.pdb
+F:\C#\Abstract and Interface\obj\Debug\netcoreapp3.1\Abstract and Interface.genruntimeconfig.cache
